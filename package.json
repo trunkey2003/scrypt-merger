@@ -1,0 +1,17 @@
+{
+  "name": "generatejsonfiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon --delay 1000ms index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "srt-parser-2": "^1.1.7",
+    "uuid": "^8.3.2"
+  }
+}
